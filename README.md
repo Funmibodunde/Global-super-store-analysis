@@ -23,6 +23,9 @@ Sales Analysis overtime of Global super store across the globe
 
 This data analysis project aim to provide meaningful insight into the Global superstore dataset which would aid management in making informed decision to improve profitability and performance by analyzing various aspect of the sales and profit data, we seek to identify trends, make data driven recommendation and gain deeper understanding on the company performance.
 
+![Github global super store](https://github.com/user-attachments/assets/a2b6ab0a-171d-491e-83dd-90ebb5e0d6d3)
+
+
 ### Data Sources
 
 The primary dataset used for this analysis is the “Global superstore dataset” containing detailed information about each sale made by the company.
