@@ -1,4 +1,4 @@
-# Global superstore sales analysis
+# Global Superstore Data Analysis
 Sales Analysis overtime of Global super store across the globe
 
 ## Table of Contents
